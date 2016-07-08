@@ -1,0 +1,28 @@
+name: esmith
+favicon: null
+layout_spectrum: 0.7577511821873486
+typography_spectrum: 0.03648754511959851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.010755624854937196
+  lightness: 0.6916834786534309
+  saturation: 0.009722667746245861
+  rhythmicContrast: 0.43916693329811096
+purpose: []
